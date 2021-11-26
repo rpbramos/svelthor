@@ -1,4 +1,6 @@
-![Svelthor](https://user-images.githubusercontent.com/7969579/143480957-b6dd8361-0149-4bb0-83fd-29c49c4f3de3.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7969579/143521717-89332cc9-c943-43e1-8883-60059c1de93b.png">
+<p/>
 
 # Svelte 3 components built with Tailwind and DaisyUI
 This library provides an easy way to get a Svelte project up and running as fast as possible by giving you all the tools you need to build complex web applications from the ground up without having to deal with importing and implementing external JavaScript libraries.
