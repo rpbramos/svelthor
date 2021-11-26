@@ -36,125 +36,125 @@ Then you can start using Svelthor by importing just the components you'll need:
 # Components
 |Status|Name|
 |---|---|
-|✅|Alert|
-|✅|Artboard|
-|✅|Avatar|
-|✅|Badge|
-|✅|Breadcrumbs|
-|✅|Button|
-|✅|Button Group|
-|✅|Card|
-|🚧|Carousel|
-|✅|Collapse|
-|✅|Countdown|
-|🚧|Divider|
-|🚧|Drawer|
-|🚧|Dropdown|
-|🚧|Footer|
-|🚧|Hero|
-|🚧|Indicator|
-|✅|Kbd|
-|✅|Link|
-|✅|Mask|
-|🚧|Menu|
-|✅|Modal|
-|🚧|Navbar|
-|🚧|Pagination|
-|✅|Progress|
-|✅|Stack|
-|🚧|Stat|
-|🚧|Steps|
-|🚧|Tab|
-|🚧|Table|
-|✅|Tooltip|
-|✅|Form Checkbox|
-|🚧|Form Input|
-|🚧|Form Radio|
-|🚧|Form Range|
-|🚧|Form Select|
-|🚧|Form Textarea|
-|🚧|Form Toggle|
-|🚧|Mockup Code|
-|✅|Mockup Phone|
-|✅|Mockup Window|
+|:heavy_check_mark:|Alert|
+|:heavy_check_mark:|Artboard|
+|:heavy_check_mark:|Avatar|
+|:heavy_check_mark:|Badge|
+|:heavy_check_mark:|Breadcrumbs|
+|:heavy_check_mark:|Button|
+|:heavy_check_mark:|Button Group|
+|:heavy_check_mark:|Card|
+|:construction:|Carousel|
+|:heavy_check_mark:|Collapse|
+|:heavy_check_mark:|Countdown|
+|:construction:|Divider|
+|:construction:|Drawer|
+|:construction:|Dropdown|
+|:construction:|Footer|
+|:construction:|Hero|
+|:construction:|Indicator|
+|:heavy_check_mark:|Kbd|
+|:heavy_check_mark:|Link|
+|:heavy_check_mark:|Mask|
+|:construction:|Menu|
+|:heavy_check_mark:|Modal|
+|:construction:|Navbar|
+|:construction:|Pagination|
+|:heavy_check_mark:|Progress|
+|:heavy_check_mark:|Stack|
+|:construction:|Stat|
+|:construction:|Steps|
+|:construction:|Tab|
+|:construction:|Table|
+|:heavy_check_mark:|Tooltip|
+|:heavy_check_mark:|Form Checkbox|
+|:construction:|Form Input|
+|:construction:|Form Radio|
+|:construction:|Form Range|
+|:construction:|Form Select|
+|:construction:|Form Textarea|
+|:construction:|Form Toggle|
+|:construction:|Mockup Code|
+|:heavy_check_mark:|Mockup Phone|
+|:heavy_check_mark:|Mockup Window|
 
 # Plugins
 
 ### Forms
 |Status|Component|Library|Type|Localization|
 |---|---|---|---|---|
-|🚧|Autosize|https://github.com/jackmoore/autosize|Component|-|
-|🚧|Dialer|Exclusive|Component|-|
-|🚧|File Dropzone|https://github.com/thecodejack/svelte-file-dropzone|Component|Yes|
-|🚧|Flatpickr|https://flatpickr.js.org|Component|Yes|
-|🚧|Yup Form Validation|https://github.com/KamyarLajani/svelte-yup|Component|Yes|
-|🚧|Form Repeater|Exclusive|Action|-|
-|🚧|FilePond|https://github.com/pqina/svelte-filepond|Component|Yes|
-|🚧|IMask|https://imask.js.org/|Component|-|
-|🚧|Input Maxlength|Exclusive|Component|-|
-|🚧|noUiSlider|https://github.com/leongersen/noUiSlider|Component|-|
-|🚧|Pass Score|https://github.com/scriptex/pass-score|Component|Yes|
-|🚧|reCAPTCHA|https://github.com/basaran/svelte-recaptcha-v2|Component|-|
-|🚧|Tom Select|https://tom-select.js.org/|Component|Yes|
-|🚧|Tags Input|https://github.com/agustinl/svelte-tags-input|Component|-|
-|🚧|Multiselectsplitter|?|
-|🚧|Tagify|https://yaireo.github.io/tagify|
+|:construction:|Autosize|https://github.com/jackmoore/autosize|Component|-|
+|:construction:|Dialer|Exclusive|Component|-|
+|:construction:|File Dropzone|https://github.com/thecodejack/svelte-file-dropzone|Component|Yes|
+|:construction:|Flatpickr|https://flatpickr.js.org|Component|Yes|
+|:construction:|Yup Form Validation|https://github.com/KamyarLajani/svelte-yup|Component|Yes|
+|:construction:|Form Repeater|Exclusive|Action|-|
+|:construction:|FilePond|https://github.com/pqina/svelte-filepond|Component|Yes|
+|:construction:|IMask|https://imask.js.org/|Component|-|
+|:construction:|Input Maxlength|Exclusive|Component|-|
+|:construction:|noUiSlider|https://github.com/leongersen/noUiSlider|Component|-|
+|:construction:|Pass Score|https://github.com/scriptex/pass-score|Component|Yes|
+|:construction:|reCAPTCHA|https://github.com/basaran/svelte-recaptcha-v2|Component|-|
+|:construction:|Tom Select|https://tom-select.js.org/|Component|Yes|
+|:construction:|Tags Input|https://github.com/agustinl/svelte-tags-input|Component|-|
+|:construction:|Multiselectsplitter|?|
+|:construction:|Tagify|https://yaireo.github.io/tagify|
 
 ### Editors
 |Status|Component|Library|
 |---|---|---|
-|🚧|Quill|https://quilljs.com|
+|:construction:|Quill|https://quilljs.com|
 
 ### Charts
 |Status|Component|Library|
 |---|---|---|
-|🚧|CarbonCharts|https://github.com/carbon-design-system/carbon-charts|
-|🚧|Frappe Charts|https://github.com/himynameisdave/svelte-frappe-charts|
-|🚧|Tiny Bar Charts|https://mitcheljager.github.io/svelte-tiny-linked-charts|
-|🚧|AmCharts|https://www.amcharts.com|
-|🚧|ApexCharts|?|
-|🚧|Gantt Chart|https://github.com/ANovokmet/svelte-gantt|
-|🚧|ChartJS|?|
-|🚧|Flotcharts|?|
-|🚧|Heatmap|https://github.com/scottbedard/svelte-heatmap|
+|:construction:|CarbonCharts|https://github.com/carbon-design-system/carbon-charts|
+|:construction:|Frappe Charts|https://github.com/himynameisdave/svelte-frappe-charts|
+|:construction:|Tiny Bar Charts|https://mitcheljager.github.io/svelte-tiny-linked-charts|
+|:construction:|AmCharts|https://www.amcharts.com|
+|:construction:|ApexCharts|?|
+|:construction:|Gantt Chart|https://github.com/ANovokmet/svelte-gantt|
+|:construction:|ChartJS|?|
+|:construction:|Flotcharts|?|
+|:construction:|Heatmap|https://github.com/scottbedard/svelte-heatmap|
 
 ### Grids
 |Status|Component|Library|
 |---|---|---|
-|🚧|GridJS|https://gridjs.io|
-|🚧|DataTables|?|
+|:construction:|GridJS|https://gridjs.io|
+|:construction:|DataTables|?|
 
 ### General
 |Status|Component|Library|
 |---|---|---|
-|🚧|Clipboard|https://clipboardjs.com|Component|No|
-|🚧|Splide|https://splidejs.com/|
-|🚧|CountUp|https://github.com/inorganik/CountUp.js|
-|🚧|Svelte Lightbox|https://github.com/Hejtmus/svelte-lightbox|
-|🚧|Smooth Scrollbar|https://github.com/idiotWu/smooth-scrollbar|
-|🚧|ScrollTo|Exclusive|
-|🚧|SweetAlert2|https://sweetalert2.github.io/|
-|🚧|Toast|https://github.com/zerodevx/svelte-toast|
-|🚧|Typed.js|https://github.com/mattboldt/typed.js|
-|🚧|Kanban (Svelte DnD)|https://github.com/isaacHagoel/svelte-dnd-action|
-|🚧|Menu|?|
-|🚧|BlockUI|?|
-|🚧|Cookie|?|
-|🚧|Cropper|?|
-|🚧|Draggable|?|
-|🚧|FullCalendar|?|
-|🚧|Drawer|?|
-|🚧|jKanbam Board|?|
-|🚧|jsTree|?|
-|🚧|Quick Search|?|
-|🚧|Stepper|?|
-|🚧|Sticky|?|
-|🚧|Vis-Timeline|?|
+|:construction:|Clipboard|https://clipboardjs.com|Component|No|
+|:construction:|Splide|https://splidejs.com/|
+|:construction:|CountUp|https://github.com/inorganik/CountUp.js|
+|:construction:|Svelte Lightbox|https://github.com/Hejtmus/svelte-lightbox|
+|:construction:|Smooth Scrollbar|https://github.com/idiotWu/smooth-scrollbar|
+|:construction:|ScrollTo|Exclusive|
+|:construction:|SweetAlert2|https://sweetalert2.github.io/|
+|:construction:|Toast|https://github.com/zerodevx/svelte-toast|
+|:construction:|Typed.js|https://github.com/mattboldt/typed.js|
+|:construction:|Kanban (Svelte DnD)|https://github.com/isaacHagoel/svelte-dnd-action|
+|:construction:|Menu|?|
+|:construction:|BlockUI|?|
+|:construction:|Cookie|?|
+|:construction:|Cropper|?|
+|:construction:|Draggable|?|
+|:construction:|FullCalendar|?|
+|:construction:|Drawer|?|
+|:construction:|jKanbam Board|?|
+|:construction:|jsTree|?|
+|:construction:|Quick Search|?|
+|:construction:|Stepper|?|
+|:construction:|Sticky|?|
+|:construction:|Vis-Timeline|?|
 
 ### Icons
 |Status|Component|Library|
 |---|---|---|
-|✅|Material Design Icons|https://materialdesignicons.com/|
-|🚧|IcoFont|https://icofont.com/|
-|🚧|Font Awesome|https://github.com/FortAwesome/Font-Awesome|
-|🚧|Line Awesome|https://icons8.com/line-awesome|
+|:heavy_check_mark:|Material Design Icons|https://materialdesignicons.com/|
+|:construction:|IcoFont|https://icofont.com/|
+|:construction:|Font Awesome|https://github.com/FortAwesome/Font-Awesome|
+|:construction:|Line Awesome|https://icons8.com/line-awesome|
