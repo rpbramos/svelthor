@@ -1,6 +1,6 @@
 {
   "name": "svelthor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A component library for Svelte built with Tailwind and DaisyUI",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rob-ramos/svelthor.git"
+    "url": "git+https://github.com/rpbramos/svelthor.git"
   },
   "keywords": [
     "svelte"
@@ -16,9 +16,9 @@
   "author": "Robson Ramos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rob-ramos/svelthor/issues"
+    "url": "https://github.com/rpbramos/svelthor/issues"
   },
-  "homepage": "https://github.com/rob-ramos/svelthor#readme",
+  "homepage": "https://github.com/rpbramos/svelthor#readme",
   "dependencies": {
     "@mdi/js": "^6.5.95",
     "countup.js": "^2.0.8",
