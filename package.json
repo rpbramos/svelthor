@@ -1,6 +1,6 @@
 {
   "name": "svelthor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A component library for Svelte built with Tailwind and DaisyUI",
   "main": "index.js",
   "scripts": {
