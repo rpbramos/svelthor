@@ -3,6 +3,12 @@
   "version": "0.0.4",
   "description": "A component library for Svelte built with Tailwind and DaisyUI",
   "main": "index.js",
+  "svelte": "src/components/index.js",
+  "types": "src/components/index.d.ts",
+  "files": [
+    "src",
+    "types"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
