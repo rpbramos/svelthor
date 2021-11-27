@@ -20,7 +20,7 @@
     "svelte"
   ],
   "author": "Robson Ramos",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rpbramos/svelthor/issues"
   },
